@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'SadeDoxApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E64188CE53E74AFE851EA008FC25C196 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC9BEB44AA16432199579FD1A165E7C9 }}
           package: .
